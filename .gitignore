@@ -1,0 +1,22 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Docker logs (optional)
+*.log
+
+# CSV data (agar tum sirf code share karna chahti ho, data nahi)
+# Crop_recommendation.csv
